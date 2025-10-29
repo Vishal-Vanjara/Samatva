@@ -29,7 +29,7 @@ It helps users understand their **mind-body constitution (Dosha)** and provides 
 ---
 ## ▶️ How to Run the Project
 --> Use the following command to start the app:<br>
-flutter run<br><br>
+flutter run<br>
 
 flutter run -d chrome    # Run on Web<br>
 flutter run -d android   # Run on Android Emulator or Device<br>
