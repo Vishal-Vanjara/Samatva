@@ -34,5 +34,5 @@ flutter run -d chrome    # Run on Web<br>
 flutter run -d android   # Run on Android Emulator or Device<br>
 flutter run -d ios       # Run on iOS Simulator<br>
 
-##💬 Quote
-“Balance is not something you find; it’s something you create.” 🌼
+## 💬 Quote<br>
+**“Balance is not something you find; it’s something you create.” 🌼**
