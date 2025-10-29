@@ -25,7 +25,7 @@ It helps users understand their **mind-body constitution (Dosha)** and provides 
             flutter run -d android   # Run on Android Emulator or Device
             flutter run -d ios       # Run on iOS Simulator
 
-🧩 Project Structure
+##🧩 Project Structure
 lib/
 │
 ├── main.dart
@@ -43,9 +43,12 @@ lib/
 ## ⚙️ Installation Steps
 
 Follow these steps to set up and run the project locally.
+###3️⃣ Install dependencies
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/yourusername/samatva.git
 cd samatva
 flutter pub get
+
+###2️⃣ Navigate to the project folder
