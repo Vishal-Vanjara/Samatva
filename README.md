@@ -21,3 +21,19 @@ It helps users understand their **mind-body constitution (Dosha)** and provides 
 ## ⚙️ Installation Steps
 
 Follow these steps to set up and run the project locally.
+
+git clone https://github.com/yourusername/samatva.git
+cd samatva
+flutter pub get
+
+## ▶️ How to Run the Project
+Use the following command to start the app:
+flutter run
+
+flutter run -d chrome    # Run on Web
+flutter run -d android   # Run on Android Emulator or Device
+flutter run -d ios       # Run on iOS Simulator
+
+
+💬 Quote
+“Balance is not something you find; it’s something you create.” 🌼
