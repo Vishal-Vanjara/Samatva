@@ -1,16 +1,79 @@
-# samatva
+🌿 Samatva – Ayurvedic Dosha Balance App
+📘 Project Title
 
-A new Flutter project.
+Samatva – A Flutter-based wellness app that helps users discover their Ayurvedic Dosha (Vata, Pitta, or Kapha) through a guided quiz and personalized recommendations.
 
-## Getting Started
+🧘 Description
 
-This project is a starting point for a Flutter application.
+Samatva is a modern mobile application inspired by the ancient science of Ayurveda.
+It helps users understand their mind-body constitution (Dosha) and provides balance recommendations through a calm and minimal user interface.
 
-A few resources to get you started if this is your first Flutter project:
+The app includes:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A 10-question Dosha Assessment Quiz
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Result Screen showing the Dominant Dosha and Dosha Breakdown
+
+Personalized lifestyle and food recommendations based on your dosha
+
+A soothing design with Ayurvedic-inspired colors and UI elements
+
+⚙️ Installation Steps
+
+Follow these steps to set up the project on your local machine:
+
+1️⃣ Clone the repository
+git clone https://github.com/yourusername/samatva.git
+
+2️⃣ Navigate to the project directory
+cd samatva
+
+3️⃣ Install dependencies
+
+Make sure Flutter is installed, then run:
+
+flutter pub get
+
+▶️ How to Run the Project
+
+Once dependencies are installed, run the project using:
+
+flutter run
+
+
+You can also specify a device:
+
+flutter run -d chrome    # for web
+flutter run -d android   # for Android device/emulator
+flutter run -d ios       # for iOS simulator
+
+🧩 Project Structure
+lib/
+│
+├── main.dart
+├── screens/
+│   ├── home/
+│   │   └── home_screen.dart
+│   ├── quiz/
+│   │   └── quiz_screen.dart
+│   └── result/
+│       └── result_screen.dart
+│
+└── widgets/
+    └── (Reusable custom widgets)
+
+🌸 Key Features
+
+🧘‍♀️ Guided Dosha Quiz with 10 personalized questions
+
+💡 Auto progress tracking with smooth navigation
+
+📊 Result screen showing dosha balance and suggestions
+
+🎨 Ayurvedic color palette for a calm and mindful experience
+
+⚡ Built using Flutter for cross-platform compatibility
+
+💬 Quote
+
+“Balance is not something you find; it’s something you create.” 🌼
