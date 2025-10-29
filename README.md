@@ -1,31 +1,55 @@
-# 🌿 Samatva – Ayurvedic Dosha Balance App
+🌿 Samatva – Ayurvedic Dosha Balance App
+📘 Project Title
+Samatva – A Flutter-based wellness app that helps users discover their Ayurvedic Dosha (Vata, Pitta, or Kapha) through a guided quiz and personalized recommendations.
 
-## 📘 Project Title
-**Samatva** – A Flutter-based wellness app that helps users discover their Ayurvedic *Dosha* (Vata, Pitta, or Kapha) through a guided quiz and personalized recommendations.
+🧘 Description
+Samatva is a modern mobile application inspired by the ancient science of Ayurveda.
+It helps users understand their mind-body constitution (Dosha) and provides balance recommendations through a calm and minimal user interface.
 
----
+🪷 Features:
+🧠 Dosha Quiz with 10 intuitive questions
+📊 Result Screen showing Dosha dominance and percentage breakdown
+🎨 Ayurvedic color theme for a soothing UI experience
+⚡ Built using Flutter for both Android & iOS
+💬 Expandable for personalized wellness tips and lifestyle guidance
+⚙️ Installation Steps
+Follow these steps to set up and run the project locally.
 
-## 🧘 Description
-Samatva is a modern mobile application inspired by the ancient science of **Ayurveda**.  
-It helps users understand their **mind-body constitution (Dosha)** and provides **balance recommendations** through a calm and minimal user interface.
+1️⃣ Clone the repository
+bash
 
-### 🪷 Features:
-- 🧠 **Dosha Quiz** with 10 intuitive questions
-- 📊 **Result Screen** showing Dosha dominance and percentage breakdown
-- 🎨 **Ayurvedic color theme** for a soothing UI experience
-- ⚡ Built using Flutter for both Android & iOS
-- 💬 Expandable for personalized wellness tips and lifestyle guidance
+Copy code
+git clone https://github.com/yourusername/samatva.git
+2️⃣ Navigate to the project folder
+bash
 
----
-## How to run the Project
--> Use the following command to start the app:
-            flutter run
--> You can also specify a target device:
-            flutter run -d chrome    # Run on Web
-            flutter run -d android   # Run on Android Emulator or Device
-            flutter run -d ios       # Run on iOS Simulator
+Copy code
+cd samatva
+3️⃣ Install dependencies
+Make sure Flutter is installed on your system, then run:
 
-##🧩 Project Structure
+bash
+
+Copy code
+flutter pub get
+▶️ How to Run the Project
+Use the following command to start the app:
+
+bash
+
+Copy code
+flutter run
+You can also specify a target device:
+
+bash
+
+Copy code
+flutter run -d chrome    # Run on Web
+flutter run -d android   # Run on Android Emulator or Device
+flutter run -d ios       # Run on iOS Simulator
+🧩 Project Structure
+
+Copy code
 lib/
 │
 ├── main.dart
@@ -39,16 +63,10 @@ lib/
 │
 └── widgets/
     └── (Reusable custom widgets)
-    
-## ⚙️ Installation Steps
-
-Follow these steps to set up and run the project locally.
-###3️⃣ Install dependencies
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/samatva.git
-cd samatva
-flutter pub get
-
-###2️⃣ Navigate to the project folder
+🌸 Key Highlights
+🪶 Minimal & mindful design inspired by Ayurveda
+📖 Quiz-driven Dosha assessment
+🌈 Personalized balance results
+🔄 Easy to expand for lifestyle & food suggestions
+💬 Quote
+“Balance is not something you find; it’s something you create.” 🌼
