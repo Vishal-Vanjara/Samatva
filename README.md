@@ -22,7 +22,7 @@ It helps users understand their **mind-body constitution (Dosha)** and provides 
 
 Follow these steps to set up and run the project locally.
 
-git clone https://github.com/yourusername/samatva.git
+git clone https://github.com/yourusername/samatva.git <br>
 cd samatva
 flutter pub get
 
